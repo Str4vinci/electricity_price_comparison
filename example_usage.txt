@@ -1,0 +1,4 @@
+python price_comparison_argparse.py \
+  --price1 0.15 --fee1 0.50 \
+  --price2 0.14 --fee2 0.60 \
+  --consumption 3500
